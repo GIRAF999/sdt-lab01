@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+yc prog
 int main()
 {
 int a, b;
